@@ -1,0 +1,5 @@
+- setup
+- git init
+- created index function that takes request and returns a string response
+- created new urls.py file in the app we are working
+- url patterns
